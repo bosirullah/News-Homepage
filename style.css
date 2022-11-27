@@ -26,7 +26,7 @@ hr{
 }
 
 h1{
-    font-size: 350%;
+    font-size: 300%;
     font-family: 'Inter', sans-serif;
     font-weight: 1000;
     line-height: 1.1;
@@ -42,7 +42,7 @@ h1{
     width: 100%;
     list-style-type: none;
     display: flex;
-    margin-left: 46%;
+    margin-left: 33%;
 }
 
 .mobile-nav-toggle{
@@ -129,7 +129,7 @@ h1{
 }
 
 .bottom-container img{
-    width: 26%;
+    width: 35%;
 }
 
 .first-box{
